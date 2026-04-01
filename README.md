@@ -67,3 +67,4 @@ title('Magnitude Spectrum of LPF using Hamming Window');
 ## OUTPUT:
 
 ## RESULT:
+![WhatsApp Image 2026-04-01 at 6 05 32 PM](https://github.com/user-attachments/assets/42ebc866-670a-4eee-acb6-d10cf23854c8)
