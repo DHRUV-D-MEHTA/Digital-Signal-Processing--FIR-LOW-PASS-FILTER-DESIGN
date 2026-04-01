@@ -65,6 +65,7 @@ ylabel('Magnitude');
 title('Magnitude Spectrum of LPF using Hamming Window');
 
 ## OUTPUT:
+<img width="1918" height="1017" alt="639106642840875914" src="https://github.com/user-attachments/assets/e6dd998f-cd3d-4dd0-b197-d0e5b78b8be1" />
 
 ## RESULT:
 ![WhatsApp Image 2026-04-01 at 6 05 32 PM](https://github.com/user-attachments/assets/42ebc866-670a-4eee-acb6-d10cf23854c8)
